@@ -1,2 +1,2 @@
 # curso-logica
-Thiago Clemente curso Estácio do professor Joao:)
+Thiago curso Estácio do professor Joao:)
